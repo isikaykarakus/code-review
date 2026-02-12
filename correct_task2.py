@@ -3,7 +3,6 @@
 
 def count_valid_emails(emails):
     count = 0
-
     for email in emails:
         # Change: skip non-strings to avoid type error on `"@" in emails
         if not isinstance(email, str):

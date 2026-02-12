@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Işıkay Karakuş 
-- Approximate time spent: 75 minutes
+- Approximate time spent: ~90 minutes
 
 ---
 
